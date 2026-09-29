@@ -4,3 +4,5 @@ Portfolio of Projects from a data visualization course. This will include projec
 Initial E-Commerce Profitability Analysis, develop profitability dashboards for Southwest Office Solutions and conlcude which subcategory they should develop a recovery plan for, and if I were to redo this assignment I would do more exploration with the data in excel before moving to Tableau. [Link to dashboard](url)
 
 Further Analysis into E-Commerce Profitability, what is one change Southwest Office Solutions can make to increase their profitability, and if I were to redo the assignment, I would have done more exploration in the initial dashboard. I would have taken more time with element and understand hoe each element effected the dashboard. [Link to dashboard](https://public.tableau.com/app/profile/mis304andreaanderson/viz/AdvancinginExcelandTableau-Pt_2_17900458903480/AppliedChart?publish=yes)
+
+MIS 561, Completed September 28, 2026, [Certificate here](https://public.tableau.com/app/profile/mis304andreaanderson/viz/PowerBI-DataCampCertificates/PowerBI-DataCampCertificates)
