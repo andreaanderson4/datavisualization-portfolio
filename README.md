@@ -26,3 +26,9 @@ The three PowerBI tutorials gave me a basic understanding of how to create visua
 Advancing in Excel and Tableau - Pt. 3 - "What batch of cards should be focused for the next contactless release?" [Link to workbook](https://public.tableau.com/app/profile/mis304andreaanderson/viz/CardPortfolioReviewContactlessReadiness_17924720014160/ExploratoryDash?publish=yes). One thing I would change if I could this assignment again would to make the calculated fields in excel before making them in tableau.
 
 Advancing in Excel and Tableau - Pt. 4 - "What group should receive the pilot program for the Wildcat Rewards credit card?" [Link to workbook](https://public.tableau.com/app/profile/mis304andreaanderson/viz/CardGrowthAnalysis_17930657701470/ExploratoryDashboard?publish=yes). One thing I would change would to explore the data in excel and get a full understanding of what customer information is available to me.
+
+**Nov 2, 2026 · Data Storytelling with Adobe Express**
+Work sample for Jordan Ellis, VP of Card Growth at Bear Down Bank: roll out pilot cards to eligible millennials - 126 customers
+[Work sample (PDF)](https://github.com/...) · [Adobe Express](https://express.adobe.com/publishedV2/urn:aaid:sc:VA6C2:b96b5b16-4ed7-542f-ba6d-e66a343a21cc?promoid=Y69SGM5H&sdid=C4SZ2FYJ&mv=other)
+Design choice: I decided to use the treemap of generation card penetration, the bar graph of who is eligible based on the generation, and average cards per customer based on generation. These ones were selected for their overview and what I explored more on in my analysis. I wanted to avoid anything that was not necessary to my conclusion. Something I modified was the KPIs chart. Instead of listing the numbers, I made it into a short narrative that explains exactly what data I looked at and what I drilled down on.
+Training completed: Nov 2, 2026
