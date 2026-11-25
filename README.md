@@ -32,3 +32,9 @@ Work sample for Jordan Ellis, VP of Card Growth at Bear Down Bank: roll out pilo
 [Work sample (PDF)](https://github.com/andreaanderson4/datavisualization-portfolio/blob/main/adobe/anderson-data-storytelling.pdf) · [Adobe Express](https://express.adobe.com/publishedV2/urn:aaid:sc:VA6C2:b96b5b16-4ed7-542f-ba6d-e66a343a21cc?promoid=Y69SGM5H&sdid=C4SZ2FYJ&mv=other)
 Design choice: I decided to use the treemap of generation card penetration, the bar graph of who is eligible based on the generation, and average cards per customer based on generation. These ones were selected for their overview and what I explored more on in my analysis. I wanted to avoid anything that was not necessary to my conclusion. Something I modified was the KPIs chart. Instead of listing the numbers, I made it into a short narrative that explains exactly what data I looked at and what I drilled down on.
 Training completed: Nov 2, 2026
+
+**Month day(#), 2026 · Brand Standard Application in Tableau**
+Do non-English-language movies earn ratings and engagement comparable to English-language movies, and which languages should IMDb Originals feature first in a recurring video series?
+[Tableau workbook](https://public.tableau.com/app/profile/mis304andreaanderson/viz/DataPlusMovies2000-2023_17956458476090/DataMoviesIMDBDashboard?publish=yes)
+I would change how I approached the explanatory dashboard. I did multiple variations of other questions before settling on one question. This was very timely, and if I had utilized AI from the beginning, it would have helped me cut down on the time wasted.
+Anthropic's Claude checked my visuals and helped me craft how I wanted to address the business questions - Novemeber 25, 2026.
